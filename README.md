@@ -14,4 +14,4 @@ $ pip install --user pipenv
 $ pipenv install requests
 
 # Run the Python app
-$ pipenv run python main.py
+$ pipenv run python ip_finder.py
