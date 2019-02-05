@@ -1,4 +1,4 @@
-# ip_fiinder
+# ip_finder
 Simple Python app to find your public IP address
 
 # First, instal Python
